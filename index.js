@@ -584,7 +584,7 @@ function adjustLayout() {
   headerBox.top = 0;
   headerBox.height = headerHeight;
   headerBox.width = "100%";
-  description箱.top = "20%";
+  descriptionBox.top = "20%";
   descriptionBox.height = Math.floor(screenHeight * 0.05);
   logsBox.top = headerHeight + descriptionBox.height;
   logsBox.left = 0;
